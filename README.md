@@ -5,7 +5,7 @@ This project implements an automated data scraping and ETL pipeline to collect, 
 
 ## Features
 - **Automated Data Scraping**: Collects job listings from multiple online sources.  
-- **ETL Pipeline**: Extracts raw data, transforms it into a clean structured forma and loads it into a database MySQL for analysis.  
+- **ETL Pipeline**: Extracts raw data, transforms it into a clean structured forma and loads it into a MySQL database for analysis.  
 - **Data Cleaning & Validation**: Handles missing values, duplicates, and inconsistent formatting.  
 - **Flexible Output**: Cleaned datasets can be used for analytics, dashboards, or machine learning applications.  
 
